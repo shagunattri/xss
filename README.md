@@ -1,6 +1,11 @@
 XSS Challenge Wiki
 ==================
 
+
+XSS Vectors
+
+![xss](xss.txt)
+
 Hello, fellow reader!
 Welcome to the XSS Challenge Wiki!
 
